@@ -1,0 +1,4 @@
+REGISTER SIP/2.0
+Call-ID: 123@ims
+From: <sip:chetan@ims>
+To: <sip:chetan@ims>
